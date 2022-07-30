@@ -11,10 +11,10 @@ def index():
 @app.route("/about")
 def about():
     me = {
-        "first_name": "DeVonte",
-        "last_name": "Gray",
+        "first_name": "DEVONTE",
+        "last_name": "GRAY",
         "age": 30,
-        "home": "Georgia",
-        "hobby": "Video Games, Experiments"
+        "home": "GEORGIA",
+        "hobby": "VIDEO GAMES, Experiments"
     }
     return me
